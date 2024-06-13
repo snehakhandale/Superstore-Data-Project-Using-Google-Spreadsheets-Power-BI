@@ -101,5 +101,7 @@ Prepare the Dashboard:
 
 Combine all the above visuals into a single dashboard.
 Ensure the dashboard is interactive and provides a comprehensive view of the business metrics.
+
+
 Conclusion
 This Power BI project provides insights into various aspects of the Superstore's performance, including order trends, sales distribution, profitability, and key performance indicators. By answering the specified questions, we aim to enhance the decision-making process and improve business strategies.
